@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-#Guessing number game
 import random
 
 try:
@@ -26,5 +25,5 @@ try:
 except:
     print("Something went wrong")
 #Final message
-finally:
+    finally:
     print("Thanks for playing number guessing game!")
